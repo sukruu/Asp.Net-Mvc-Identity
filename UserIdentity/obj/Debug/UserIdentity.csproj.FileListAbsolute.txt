@@ -1,0 +1,280 @@
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\csc.exe
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\csc.exe.config
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\csc.rsp
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\csi.exe
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\csi.exe.config
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\csi.rsp
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.AppContext.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Collections.Immutable.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Console.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Diagnostics.Process.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.IO.Compression.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.IO.FileSystem.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.IO.Pipes.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Reflection.Metadata.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Security.AccessControl.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Security.Claims.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Security.Principal.Windows.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Threading.Thread.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.ValueTuple.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Xml.XmlDocument.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Xml.XPath.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\vbc.exe
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\vbc.exe.config
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\vbc.rsp
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\VBCSCompiler.exe
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\VBCSCompiler.exe.config
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\UserIdentity.dll.config
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\UserIdentity.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\UserIdentity.pdb
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\EntityFramework.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\EntityFramework.SqlServer.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.AspNet.Identity.Core.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.Owin.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.Owin.Security.Cookies.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.Owin.Security.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.Owin.Security.OAuth.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.Web.Infrastructure.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\Newtonsoft.Json.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\Owin.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\System.Web.Helpers.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\System.Web.Mvc.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\System.Web.Razor.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\System.Web.Webpages.Deployment.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\System.Web.Webpages.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\System.Web.Webpages.Razor.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\EntityFramework.xml
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\EntityFramework.SqlServer.xml
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.AspNet.Identity.Core.xml
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.Owin.xml
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.Owin.Security.xml
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.Owin.Security.Cookies.xml
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.Owin.Security.OAuth.xml
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\Newtonsoft.Json.xml
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\System.Web.Razor.xml
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\System.Web.Webpages.xml
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\System.Web.Webpages.Deployment.xml
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\System.Web.Webpages.Razor.xml
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\System.Web.Helpers.xml
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\bin\System.Web.Mvc.xml
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\obj\Debug\UserIdentity.csprojResolveAssemblyReference.cache
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\obj\Debug\UserIdentity.csproj.CoreCompileInputs.cache
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\obj\Debug\UserIdentity.dll
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\3-Back-End\9-Identity\2-Identity Kurulumu\UserIdentity\UserIdentity\UserIdentity\obj\Debug\UserIdentity.pdb
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\csc.exe
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\csc.exe.config
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\csc.rsp
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\csi.exe
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\csi.exe.config
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\csi.rsp
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.AppContext.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Console.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.IO.Compression.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.IO.Pipes.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Security.Claims.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Threading.Thread.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.ValueTuple.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\vbc.exe
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\vbc.exe.config
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\vbc.rsp
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\VBCSCompiler.exe
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\UserIdentity.dll.config
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\UserIdentity.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\UserIdentity.pdb
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\EntityFramework.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\EntityFramework.SqlServer.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.Owin.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.Owin.Security.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\Newtonsoft.Json.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\Owin.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\System.Web.Helpers.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\System.Web.Mvc.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\System.Web.Razor.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\System.Web.Webpages.Deployment.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\System.Web.Webpages.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\System.Web.Webpages.Razor.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\EntityFramework.xml
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\EntityFramework.SqlServer.xml
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.Owin.xml
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.Owin.Security.xml
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\Newtonsoft.Json.xml
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\System.Web.Razor.xml
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\System.Web.Webpages.xml
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\System.Web.Webpages.Deployment.xml
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\System.Web.Webpages.Razor.xml
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\System.Web.Helpers.xml
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\bin\System.Web.Mvc.xml
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\obj\Debug\UserIdentity.csprojResolveAssemblyReference.cache
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\obj\Debug\UserIdentity.csproj.CoreCompileInputs.cache
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\obj\Debug\UserIdentity.dll
+C:\Users\sadikturan\Desktop\UserIdentity\UserIdentity\UserIdentity\obj\Debug\UserIdentity.pdb
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\csc.exe
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\csc.exe.config
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\csc.rsp
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\csi.exe
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\csi.exe.config
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\csi.rsp
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.AppContext.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Console.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.IO.Compression.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.IO.Pipes.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Security.Claims.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Threading.Thread.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.ValueTuple.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\vbc.exe
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\vbc.exe.config
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\vbc.rsp
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\VBCSCompiler.exe
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\UserIdentity.dll.config
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\UserIdentity.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\UserIdentity.pdb
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\EntityFramework.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\EntityFramework.SqlServer.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.Owin.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.Owin.Security.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\Newtonsoft.Json.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\Owin.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\System.Web.Helpers.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\System.Web.Mvc.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\System.Web.Razor.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\System.Web.Webpages.Deployment.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\System.Web.Webpages.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\System.Web.Webpages.Razor.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\EntityFramework.xml
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\EntityFramework.SqlServer.xml
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.Owin.xml
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.Owin.Security.xml
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\Newtonsoft.Json.xml
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\System.Web.Razor.xml
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\System.Web.Webpages.xml
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\System.Web.Webpages.Deployment.xml
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\System.Web.Webpages.Razor.xml
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\System.Web.Helpers.xml
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\bin\System.Web.Mvc.xml
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\obj\Debug\UserIdentity.csproj.AssemblyReference.cache
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\obj\Debug\UserIdentity.csproj.CoreCompileInputs.cache
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\obj\Debug\UserIdentity.csproj.CopyComplete
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\obj\Debug\UserIdentity.dll
+C:\Users\NEO\Desktop\16-Asp.Net Mvc\Asp.Net Web Api\UserIdentity\UserIdentity\UserIdentity\obj\Debug\UserIdentity.pdb
